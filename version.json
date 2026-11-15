@@ -1,6 +1,6 @@
 ﻿{
-    "version":  3,
+    "version":  11,
     "zip":  "https://raw.githubusercontent.com/kishore-1817/jarvis-updates/main/Jarvis_Share.zip",
-    "sha256":  "ec583e37b3b5ed7912affd310819e7c5616fb916f42c9cb0fb0514ad4b2e1342",
-    "notes":  "first release"
+    "sha256":  "ddd69b99c97a391636260cdbc0ce74b6f5eb497a987df14df4858a3241bcb414",
+    "notes":  "new fixes"
 }
